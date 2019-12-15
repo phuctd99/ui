@@ -238,13 +238,14 @@ header {
 }
 .block-content {
   display: flex;
-  justify-content: space-between;
   flex-wrap: wrap;
 }
 .block-content a {
   display: contents;
 }
-
+#follow{
+  justify-content: space-between;
+}
 /* ------------------------------------------------ */
 
 

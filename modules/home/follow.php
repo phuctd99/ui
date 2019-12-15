@@ -1,6 +1,6 @@
 <div class="block">
     <div class="block-title">Dành cho bạn</div>
-    <div class="block-content">
+    <div class="block-content" id="follow">
         <a href="./watch.html">
             <div class="block-element-spe">
                 <img alt="" src="./images/hunter-x-hunter220-12-2018_17g26-04.webp" />
